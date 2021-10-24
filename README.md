@@ -1,6 +1,7 @@
 # Password_Generator
-It is a C++ program which generates a random password while following all the rules mentioned below:-
+It is a password generation website to generate random passwords.
 
+Rules followed:-
 at least 1 uppercase character (A-Z)
 at least 1 lowercase character (a-z)
 at least 1 digit (0-9)
